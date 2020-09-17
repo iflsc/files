@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="why-your-deck-of-card-never-works-out.html"}
-if(x=="2"){xxx="what-experts-are-saying-about-small.html"}
-if(x=="3"){xxx="16-great-articles-about-tennis.html"}
-if(x=="4"){xxx="18-ideas-you-can-steal-from-rock-bands.html"}
-if(x=="5"){xxx="why-you-never-succeed-at-basketball.html"}a_to_ve[i].href="https://s.mipm.info/2019/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="the-11-biggest-online-nutrition-course.html"}
+if(x=="2"){xxx="the-best-ways-to-utilize-beautiful.html"}
+if(x=="3"){xxx="why-next-10-years-of-photo-stocks-will.html"}
+if(x=="4"){xxx="the-only-vacation-package-resources-you.html"}
+if(x=="5"){xxx="5-ways-student-tours-can-find-you-love.html"}a_to_ve[i].href="https://url.najwa.id/2018/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
